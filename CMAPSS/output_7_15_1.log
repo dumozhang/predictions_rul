@@ -1,0 +1,127 @@
+模型内存占用: 60.65234375 M
+kan代码运行时间: 1.7408561706542969 秒
+模型的参数数量: 15527 个
+torch.Size([64, 1])
+Numpy version:  1.24.4
+Pandas version:  2.0.3
+Scikit-learn version:  1.3.0
+Processed trianing data shape:  (17731, 30, 14)
+Processed training ruls shape:  (17731,)
+Processed test data shape:  (497, 30, 14)
+True RUL shape:  (100,)
+Processed train data shape:  (14184, 30, 14)
+Processed validation data shape:  (3547, 30, 14)
+Processed train targets shape:  (14184,)
+Processed validation targets shape:  (3547,)
+Epoch 0/399
+----------
+train Loss: 531.8533
+val Loss: 258.4418
+Epoch 10/399
+----------
+Epoch 20/399
+----------
+Epoch 30/399
+----------
+Epoch 40/399
+----------
+train Loss: 161.9300
+val Loss: 120.6444
+Epoch 50/399
+----------
+Epoch 60/399
+----------
+Epoch 70/399
+----------
+Epoch 80/399
+----------
+train Loss: 125.0059
+val Loss: 82.4883
+Epoch 90/399
+----------
+Epoch 100/399
+----------
+Epoch 110/399
+----------
+Epoch 120/399
+----------
+train Loss: 77.6617
+val Loss: 51.6022
+Epoch 130/399
+----------
+Epoch 140/399
+----------
+Epoch 150/399
+----------
+Epoch 160/399
+----------
+train Loss: 73.2203
+val Loss: 47.7229
+Epoch 170/399
+----------
+Epoch 180/399
+----------
+Epoch 190/399
+----------
+Epoch 200/399
+----------
+train Loss: 70.2557
+val Loss: 45.2364
+Epoch 210/399
+----------
+Epoch 220/399
+----------
+Epoch 230/399
+----------
+Epoch 240/399
+----------
+train Loss: 65.5983
+val Loss: 42.6862
+Epoch 250/399
+----------
+Epoch 260/399
+----------
+Epoch 270/399
+----------
+Epoch 280/399
+----------
+train Loss: 65.3411
+val Loss: 42.1837
+Epoch 290/399
+----------
+Epoch 300/399
+----------
+Epoch 310/399
+----------
+Epoch 320/399
+----------
+train Loss: 64.4122
+val Loss: 41.7099
+Epoch 330/399
+----------
+Epoch 340/399
+----------
+Epoch 350/399
+----------
+Epoch 360/399
+----------
+train Loss: 63.5702
+val Loss: 41.5247
+Epoch 370/399
+----------
+Epoch 380/399
+----------
+Epoch 390/399
+----------
+RMSE:  19.463054890469245
+RMSE (Taking only last examples):  18.049538339780014
+S-score:  805.3259696500173
+RMSE:  19.463054890469245
+MAE 14.436737520217898
+MAE    0.29741098857695575
+S-score:  1193.7579390368744
+RMSE (Taking only last examples):  18.049538339780014
+% MAE only last examples   13.196339960098266
+% MAE only last examples   0.23979612382235582
+S-score:  805.3259696500173
+The MAE for critical predictions is: 3.0839643478393555
